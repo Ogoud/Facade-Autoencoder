@@ -28,6 +28,7 @@ The goal is to reconstruct high-quality images from masked inputs and analyze th
 
 ## **Project Structure**
 
+```plaintext
 project/
 │
 ├── data/                       # Directory for datasets
@@ -40,6 +41,7 @@ project/
 │
 ├── requirements.txt            # Dependencies for the project
 └── README.md                   # Project documentation
+```
 
 
 ---
